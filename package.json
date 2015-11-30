@@ -1,0 +1,30 @@
+{
+  "name": "mongodbproject",
+  "version": "0.0.1",
+  "description": "Project made with MEAN stack ( MongoDB, ExpressJS, AngularJS, NodeJS )",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRaisala/MongoDB-Project.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "ExpressJS",
+    "Angular",
+    "NodeJS"
+  ],
+  "author": "Juha Räisälä",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRaisala/MongoDB-Project/issues"
+  },
+  "homepage": "https://github.com/JRaisala/MongoDB-Project#readme"
+}
