@@ -1,16 +1,6 @@
 //Wait document.ready event
 
 
-$(document).ready(function(){
-    console.log("jquery onload triggered");
-    $("nav").css("background-color","lightblue")
-    .css("padding","20px").css("border-radius","8px");
-  });
-
-
-$(".about").html("<b>New text</b>");  
-$("[data-dummy]").html("<p>hello world!</p>");
-
 var setting = {
   
           method:"GET",
